@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data | Thiago V. Barbosa</title>
+    <link>/tag/data/</link>
+      <atom:link href="/tag/data/index.xml" rel="self" type="application/rss+xml" />
+    <description>data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>data</title>
+      <link>/tag/data/</link>
+    </image>
+    
+    <item>
+      <title>web-scraping</title>
+      <link>/post/web-scraping/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/post/web-scraping/</guid>
+      <description>
+
+
+&lt;p&gt;Web-Scraping: qual o seu poder? Este é o tema deste post. As técnicas de raspagem da web é instrumento muito bom para extrair insights de negócios e tomar decições mais acertivas na alocação de recursos por meio de pesquisas prévias e maior robustez na avaliação da viabilidade do projeto.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;data(&amp;quot;mtcars&amp;quot;)
+
+plot(mtcars$mpg, mtcars$cyl)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/web-scraping/index_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

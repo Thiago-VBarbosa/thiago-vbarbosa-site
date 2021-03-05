@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web | Thiago V. Barbosa</title>
+    <link>/tag/web/</link>
+      <atom:link href="/tag/web/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Web</title>
+      <link>/tag/web/</link>
+    </image>
+    
+    <item>
+      <title>Dados na Web</title>
+      <link>/project/livro/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project/livro/</guid>
+      <description>&lt;p&gt;Projeto em desenvolvimento para desenvolver e disponibilizar um livro que tratará de aspectos introdutórios de como trabalhar com dados disponíveis na Web, como API&amp;rsquo;s e técnicas de raspagem na Web.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
