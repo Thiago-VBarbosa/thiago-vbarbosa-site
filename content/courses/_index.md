@@ -2,9 +2,8 @@
 header:
   caption: ""
   image: ""
-title: Courses
+title: Cursos
 type: page
 active: false
 ---
 
-I teach the following courses:
