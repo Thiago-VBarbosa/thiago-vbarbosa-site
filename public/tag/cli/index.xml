@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CLI | Thiago V. Barbosa</title>
+    <link>/tag/cli/</link>
+      <atom:link href="/tag/cli/index.xml" rel="self" type="application/rss+xml" />
+    <description>CLI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>CLI</title>
+      <link>/tag/cli/</link>
+    </image>
+    
+    <item>
+      <title>CLI Mangá Download</title>
+      <link>/project/cli-manga-download/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project/cli-manga-download/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;Go to project: &lt;button onclick=&#34;window.open(&#39;https://github.com/Thiago-VBarbosa/cli-manga-download&#39;)&#34; type=&#34;submit&#34; style=&#34;background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;&#34;&gt;CLI Mangá Download&lt;/button&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Fornece um conjunto de funcionalidades que permite a partir de linhas de código sintéticas o download e processamento automático de obras convertendo para formato PDF e MOBI (Kindle). Para acesso ao código fonte e à documentação com mais detalhes de utilização da ferramenta, acesse o meu repositório no GITHUB em &lt;a href=&#34;https://github.com/Thiago-VBarbosa/cli-manga-download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CLI Mangá Download&lt;/strong&gt;&lt;/a&gt; ou clicando no botão acima.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

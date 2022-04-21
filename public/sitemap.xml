@@ -2,74 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/courses/example/python/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>/tag/api/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/visualization/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>/category/api/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/stats/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>/project/api-biquini/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/tag/plumber/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/book/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/livro/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <loc>/category/plumber/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/r-programming/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/r-programming/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/category/web/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/web/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/automatism/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <loc>/tag/cli/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <loc>/category/cli/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/project/cli-manga-download/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/category/command-line-interface/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/category/mangas/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/thiago-v.-barbosa/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>/category/web-scraping/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
@@ -77,27 +68,28 @@
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/admin/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/authors/</loc>
+  </url><url>
+    <loc>/tag/book/</loc>
+  </url><url>
+    <loc>/courses/</loc>
+  </url><url>
+    <loc>/project/livro/</loc>
+  </url><url>
+    <loc>/category/data-analyst/</loc>
   </url><url>
     <loc>/post/</loc>
   </url><url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>/publication_types/</loc>
+  </url><url>
+    <loc>/publication/</loc>
+  </url><url>
+    <loc>/event/</loc>
+  </url><url>
+    <loc>/author/thiago-v.-barbosa/</loc>
+  </url><url>
+    <loc>/category/web-data/</loc>
   </url>
 </urlset>

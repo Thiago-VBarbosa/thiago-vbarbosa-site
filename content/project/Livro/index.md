@@ -1,16 +1,23 @@
 ---
-date: "2021-03-04T00:00:00Z"
+date: "2022-21-04T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 links:
-summary: Desenvolvimento de um livro gratuito sobre trabalhar com dados na Web com R.
+summary: Desenvolvimento de um livro gratuito sobre trabalhar com dados na Web com R (**IN PROGRESS**).
+categories:
+- Data Analyst
+- API
+- WEB
+- Web Data
+- Web Scraping
+- R Programming
 tags:
 - Web
 - R Programming
 - Book
-title: Dados na Web
+title: Dados na Web (IN PROGRESS)
 url_code: ""
 url_pdf: ""
 url_slides: ""
